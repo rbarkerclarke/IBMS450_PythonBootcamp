@@ -1,13 +1,3 @@
-Incidence Rate Report by State
-
-"Esophagus (All Stages^), 2017-2021"
-
-"All Races (includes Hispanic), Female, All Ages"
-
-Sorted by Rate
-
-Compared by Cancer
-
 State,FIPS,"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval","CI*Rank([rank note])","Lower CI (CI*Rank)","Upper CI (CI*Rank)",Average Annual Count,Recent Trend,"Recent 5-Year Trend ([trend note]) in Incidence Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
 "US (SEER+NPCR)(1)",00000,1.8 ,1.7, 1.8,N/A , N/A , N/A,3869,stable,-0.1 ,-0.7, 1.4
 "Rhode Island(6)",44000,2.4 ,1.9, 3,1 , 1 , 35,19,stable,-0.1 ,-1.8, 1.7
@@ -62,17 +52,3 @@ State,FIPS,"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000","Lower
 "Utah(7)",49000,1.1 ,0.9, 1.3,50 , 43 , 50,16,stable,0.1 ,-1.2, 1.8
 "Puerto Rico(6)",72001,0.9 ,0.7, 1.1,N/A , N/A , N/A,23,*,*,*,*
 "Indiana(6)",18000,data not available ,data not available, data not available,N/A , N/A , N/A,data not available,data not available,data not available,data not available,data not available
-
-Created by statecancerprofiles.cancer.gov on 10/25/2025 7:39 pm.
-
-State Cancer Registries may provide more current or more local data.
-"[rate note] Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates."
-Rates and trends are computed using different standards for malignancy. For more information see malignant.html.
-
-"^ All Stages refers to any stage in the Surveillance, Epidemiology, and End Results (SEER) Summary/Historic Combined Summary Stage (2004+) [ https://seer.cancer.gov/tools/ssm/ ]."
-* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category.
-Data not available [http://statecancerprofiles.cancer.gov/datanotavailable.html] for this combination of data selections.
-Source: SEER and NPCR data. For more specific information please see the table.
-
-Data for the United States does not include data from Indiana.
-Data for the United States does not include Puerto Rico.
