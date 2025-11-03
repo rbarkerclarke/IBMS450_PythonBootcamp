@@ -1,0 +1,54 @@
+State,FIPS,"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,CI*Rank([rank note]),Lower CI (CI*Rank),Upper CI (CI*Rank),Average Annual Count,Recent Trend,Recent 5-Year Trend ([trend note]) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+US (SEER+NPCR)(1),0,4.5,4.3,4.7,N/A , N/A , N/A,441,stable,0,-0.6,0.7
+Missouri(6),29000,6.5,3.5,10.6,1,1,25,3,*,*,*,*
+Utah(7),49000,6.3,3.7,10.3,2,1,24,4,*,*,*,*
+Maryland(6),24000,5.8,4.4,7.5,3,1,19,12,*,*,*,*
+New Jersey(7),34000,5.5,4.6,6.6,4,1,17,25,stable,0.1,-1.9,2.5
+Pennsylvania(6),42000,5.5,4.1,7.1,5,1,21,12,*,*,*,*
+Wisconsin(6),55000,5.4,3.1,8.6,6,1,25,4,*,*,*,*
+Tennessee(6),47000,5.3,3,8.7,7,1,25,3,*,*,*,*
+Massachusetts(7),25000,5.3,4,6.9,8,1,21,13,stable,0.4,-2.7,4.9
+New York(7),36000,5.2,4.5,5.9,9,2,17,48,stable,0.7,-0.7,2.3
+Washington(5),53000,5.2,4.1,6.4,10,1,20,18,stable,1.4,-1.6,5.6
+Texas(7),48000,5,4.3,5.9,11,2,19,36,stable,-0.4,-2.1,1.9
+Florida(6),12000,5,4,6.2,12,1,21,16,*,*,*,*
+Minnesota(6),27000,4.9,3.1,7.3,13,1,25,6,*,*,*,*
+Georgia(7),13000,4.6,3.3,6.2,14,2,24,10,*,*,*,*
+Colorado(6),8000,4.4,2.8,6.8,15,1,25,4,*,*,*,*
+Michigan(6),26000,4.4,3,6.1,16,1,25,7,*,*,*,*
+California(7),6000,4.3,4,4.7,17,10,21,136,stable,-0.9,-4.7,0.2
+Ohio(6),39000,4.3,2.8,6.2,18,2,25,6,*,*,*,*
+Illinois(7),17000,4.2,3.3,5.3,19,5,24,16,*,*,*,*
+Oregon(6),41000,3.7,2.1,5.9,20,2,25,4,*,*,*,*
+Nevada(6),32000,3.5,2.2,5.2,21,5,25,5,*,*,*,*
+Hawaii(7),15000,3.4,2.7,4.3,22,14,25,18,*,*,*,*
+North Carolina(6),37000,3.3,2.1,5,23,7,25,5,*,*,*,*
+Virginia(6),51000,3.2,2.3,4.3,24,13,25,9,*,*,*,*
+Arizona(6),4000,2.8,1.7,4.5,25,12,25,4,*,*,*,*
+Alabama(6),1000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Alaska(6),2900,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Arkansas(6),5000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Connecticut(7),9000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Delaware(6),10000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+District of Columbia(6),11001,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Idaho(7),16000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Indiana(6),18000,data not available ,data not available, data not available,N/A , N/A , N/A,data not available,data not available,data not available,data not available,data not available
+Iowa(7),19000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Kansas(6),20000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Kentucky(7),21000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Louisiana(7),22000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Maine(6),23000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Mississippi(6),28000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Montana(6),30000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Nebraska(6),31000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+New Hampshire(6),33000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+New Mexico(7),35000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+North Dakota(6),38000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Oklahoma(6),40000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Puerto Rico(6),72001,[P3 note] ,[P3 note], [P3 note],N/A , N/A , N/A,[P3 note],[P3 note],[P3 note],[P3 note],[P3 note]
+Rhode Island(6),44000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+South Carolina(6),45000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+South Dakota(6),46000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Vermont(6),50000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+West Virginia(6),54000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
+Wyoming(6),56000,* ,*, *,* , * , *,3 or fewer,*,*,*,*
